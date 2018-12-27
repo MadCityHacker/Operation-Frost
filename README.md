@@ -7,7 +7,7 @@ Frost was written using Python 2.7. It has been tested on both Windows and Linux
 
 Installation
 ------------
-Simply clone the repository and run `pip install -r requirements.txt`
+Simply clone the repository and run `pip install -r requirements.txt`. For Windows systems, please be aware that the "Microsoft Visual C++ Compiler for Python 2.7" must be installed to properly install the required modules. This can be found here: https://www.microsoft.com/en-us/download/details.aspx?id=44266.
 
 # Usage
 As mentioned previously, this program can be run interactively or via command line arguments.
