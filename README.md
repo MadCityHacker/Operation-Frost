@@ -1,6 +1,6 @@
 # Operation-Frost
 
-Frost is a simply Python script that allows for encrypting and decrypting the contents of a file using AES encryption. The process can be automated, through the use of command line arguments, or can be performed interactively. For additional information on how to use this program or any others created, please visit https://madcityhacker.com.
+Frost is a simple Python script that allows for encrypting and decrypting the contents of a file using AES encryption. The process can be automated, through the use of command line arguments, or can be performed interactively. For additional information on how to use this program or any others created, please visit https://madcityhacker.com.
 
 # Setup
 Frost was written using Python 2.7. It has been tested on both Windows and Linux operating systems.
